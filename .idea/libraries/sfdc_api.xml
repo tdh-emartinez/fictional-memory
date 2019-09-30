@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sfdc_api" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/sfdc_api/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/sfdc_api/lib" />
+    </SOURCES>
+  </library>
+</component>
